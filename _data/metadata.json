@@ -1,25 +1,25 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
+  "title": "Traduceri legalizate",
+  "url": "https://traduceri.online",
+  "domain": "traduceri.online",
+  "description": "Traduceri legalizate. Traduceri legalizate greaca.",
+  "genre": "https://schema.org/CreativeWork",
   "googleAnalyticsId": "GA ID. Update me",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Articole traduceri legalizate",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://traduceri.online"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://traduceri.online/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
+    "name": "Tarcisius Movileanu",
     "twitterHandle": "update_me"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Tarcisius Movileanu"
   }
 }
