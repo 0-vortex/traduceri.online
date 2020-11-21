@@ -2,7 +2,7 @@ backend:
   name: github
   repo: 0-vortex/traduceri.online
   branch: master
-  site_domain: thirsty-euler-173049.netlify.com
+  site_domain: 0-vortex.github.io
 media_folder: "img/remote"
 publish_mode: editorial_workflow
 collections:
