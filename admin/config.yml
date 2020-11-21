@@ -4,7 +4,7 @@ backend:
   branch: main
   site_domain: vigilant-noether-3452aa.netlify.app
 media_folder: "img/remote"
-publish_mode: editorial_workflow
+public_folder: "/img/remote"
 collections:
   - name: "blog"
     label: "Blog"
