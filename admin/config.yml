@@ -1,8 +1,8 @@
 backend:
   name: github
   repo: 0-vortex/traduceri.online
-  branch: master
-  site_domain: 0-vortex.github.io
+  branch: main
+  site_domain: vigilant-noether-3452aa.netlify.app
 media_folder: "img/remote"
 publish_mode: editorial_workflow
 collections:
